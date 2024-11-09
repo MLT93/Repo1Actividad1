@@ -52,3 +52,4 @@ git commit -m "feat: create folders"
 git push -u origin dev
 git status
 
+# Ahora se creará una PULL REQUEST (PR) en GitHub
