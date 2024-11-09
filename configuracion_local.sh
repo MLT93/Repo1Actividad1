@@ -46,4 +46,9 @@ touch marcos_lambir_torres.html
 cd ../
 touch configuracion_local.sh
 code configuracion_local.sh
+"ejecuto cambios"
+git add .
+git commit -m "feat: create folders"
+git push -u origin dev
+git status
 
