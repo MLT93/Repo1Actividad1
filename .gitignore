@@ -1,7 +1,7 @@
 # Aquí se alojan los archivos que quedarán afuera del repositorio remoto de GitHub
 
 # Carpetas
-src
+archivos_privados
 
 # Archivos
 configuracion_local.sh
