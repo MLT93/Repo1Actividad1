@@ -11,6 +11,6 @@ Ejercicio para Entornos de Desarrollo UNIR
 #### Equipo de trabajo:
 
   1. Marcos Lambir Torres
-  2. <...>
+  2. Juan Montiel Fernández
   3. <...>
 
